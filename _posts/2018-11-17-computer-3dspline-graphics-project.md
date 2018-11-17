@@ -1,6 +1,6 @@
 ---
 title: '3DSpline - Computer Graphics Project'
-date: 2013-12-29T09:31:14+00:00
+date: 2018-11-17T01:31:14+00:00
 author: Akash Shrestha
 layout: post
 permalink: /3dspline-computer-graphics-project/
