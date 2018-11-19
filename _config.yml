@@ -1,7 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 title: Welcome to the Octocat’s homepage!
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-merlot
 
 # Name of your site (displayed in the header)
 name: Shiva Shrestha
