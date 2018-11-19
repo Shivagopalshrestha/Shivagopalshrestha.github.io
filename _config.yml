@@ -1,6 +1,7 @@
 #
 # This file contains configuration flags to customize your site
-#
+title: Welcome to the Octocat’s homepage!
+theme: jekyll-theme-cayman
 
 # Name of your site (displayed in the header)
 name: Shiva Shrestha
@@ -57,7 +58,7 @@ permalink: /:title/
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
-theme: jekyll-theme-midnight
+
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
