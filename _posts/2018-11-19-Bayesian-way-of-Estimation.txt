@@ -11,7 +11,7 @@ categories:
 
 #### Four simple rules: 
 
-<a href="dashboard.html"> </a>
+<a href="/_post/index.html"> </a>
 
 * Start with the prior
 * Be Aware of the likelihood
