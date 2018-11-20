@@ -16,7 +16,7 @@ categories:
 
 
 * Start with the prior
-<a href="https://github.com/Shivagopalshrestha/shivagopalshrestha.github.io/dashboard.html">Click here again</a>
+<a href="https://shivagopalshrestha.github.io/dashboard.html">Click here again</a>
 
 * Be Aware of the likelihood
 * Learn the conjugates
