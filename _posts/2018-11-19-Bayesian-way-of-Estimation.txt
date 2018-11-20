@@ -11,7 +11,7 @@ categories:
 
 #### Four simple rules: 
 
-<a href="/_post/index.html">Click here</a>
+<a href="/_posts/index.html">Click here</a>
 
 
 
