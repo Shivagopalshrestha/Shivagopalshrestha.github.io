@@ -13,10 +13,11 @@ categories:
 
 <a href="/_post/index.html">Click here</a>
 
-<a href="/dashboar.html">Click here again</a>
 
 
 * Start with the prior
+<a href="/dashboard.html">Click here again</a>
+
 * Be Aware of the likelihood
 * Learn the conjugates
 * Get you posterior
