@@ -5,7 +5,7 @@ title: You're up and running!
 
 <a href="https://shivagopalshrestha.github.io/dashboard.html">Click here again</a>
 
-<a href="https://shivagopalshrestha.github.io/_posts/index.html">Click  again</a>
+<a href="https://shivagopalshrestha.github.io/index.html">Click  again</a>
 
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
