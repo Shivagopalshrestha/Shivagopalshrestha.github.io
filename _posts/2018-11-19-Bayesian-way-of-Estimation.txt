@@ -11,7 +11,7 @@ categories:
 
 #### Four simple rules: 
 
-<a href="/_posts/index.html">Click here</a>
+<a href="https://github.com/Shivagopalshrestha/shivagopalshrestha.github.io/edit/master/_posts/index.html">Click here</a>
 
 
 
