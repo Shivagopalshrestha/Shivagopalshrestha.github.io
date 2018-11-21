@@ -4,7 +4,8 @@
 
 
 **Read me** 
-![Jekyll Now Theme Screenshot](/images/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
+![Jekyll Now Theme Screenshot](/images/11-climate-change-and-impacts-on-hydrological-extremes-pwillems-17-638.jpg
+ "Jekyll Now Theme Screenshot")
 
 ## Other forkable themes
 
